@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ibowhJmqG9W2UoTAoxPvBFWN8a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,5 +53,15 @@
       <updated>1602185892791</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="296" key="Github.ShareDialog" timestamp="1610663437337">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="548" y="296" key="Github.ShareDialog/0.30.1366.738@0.30.1366.738" timestamp="1610663437337" />
+    <state x="486" y="103" key="Github.UntrackedFilesDialog" timestamp="1610663446321">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="486" y="103" key="Github.UntrackedFilesDialog/0.30.1366.738@0.30.1366.738" timestamp="1610663446321" />
   </component>
 </project>
